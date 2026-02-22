@@ -1,0 +1,19 @@
+Date	September 28, 2025, 2:46:56 PM KST
+Project Home	/Users/wanli/Desktop/cnki知网/project
+Data Home	/Users/wanli/Desktop/cnki知网/data
+Data Source	CNKI
+Language	English
+From	2015-JAN
+To	2025-DEC
+Slice Length	1
+Title	true
+Abstract	true
+Descriptor	true
+Identifier	true
+Prune with PF	false
+Prune with MST	false
+Prune Slices	false
+Prune Merged	false
+Threshold Group 0	2, 2, 20
+Threshold Group 1	4, 3, 20
+Threshold Group 2	3, 3, 20
